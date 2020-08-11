@@ -6,6 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelSuki/git_practice_fisheep.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -15,11 +19,11 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fisheep1207/Final_project.git"
+    "url": "git+https://github.com/AngelSuki/git_practice_fisheep.git"
   },
   "bugs": {
-    "url": "https://github.com/Fisheep1207/Final_project/issues"
+    "url": "https://github.com/AngelSuki/git_practice_fisheep/issues"
   },
-  "homepage": "https://github.com/Fisheep1207/Final_project#readme",
+  "homepage": "https://github.com/AngelSuki/git_practice_fisheep#readme",
   "description": ""
 }
